@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 It all started when Mighty Mamba entered the city Margaf in the forgotten lands. Mamba also had a litte friend, Scmushy, that was very cute and friendly.
+=======
+It all started when Mighty Mamba entered the city Margaf in the forgotten lands. They felt quite handsome this day, carrying themselfs high with pride.
+As Mighty Mamba entered Margaf he found his weapon, a morning-star, that he had lost a couple of days
+ago when he was at the local bar,
+>>>>>>> upstream/master
