@@ -1,7 +1,3 @@
 As Mighty Mamba came closer and closer to the treasure, it became more and more
-<<<<<<< HEAD
-dangerous as he met trolls, goblins and even dragons on his way. Suddenly litte Schumchy was eaten by a ugly troll. Mamba cried and was very sad.
-=======
 dangerous as he met trolls, goblins and even dragons on his way.
 Indeed, even the very nature had been entranced in an evil spell to stop our hero.
->>>>>>> upstream/master
